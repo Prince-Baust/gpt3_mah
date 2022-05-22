@@ -40,7 +40,7 @@
     min-height: 50px;
     background: var(--color-footer);
     border: 2px solid var(--color-footer);
-    border-radius: 5px 0px 0px 5px;
+    border-radius: 5px 0 0 5px;
     padding: 0 1rem;
     outline: none;
     font-family: var(--font-family);
@@ -55,7 +55,7 @@
     min-height: 50%;
     background: #FF4820;
     border: none;
-    border-radius: 0px 5px 5px 0px;
+    border-radius: 0 5px 5px 0;
     font-family: var(--font-family);
     font-weight: 700;
     font-size: 20px;
@@ -76,7 +76,7 @@
 }
 
 .gpt3__header-content__people img {
-    width: 181.79px;
+    width: 181px;
     height: 38px;
 }
 
