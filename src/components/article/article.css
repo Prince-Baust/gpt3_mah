@@ -39,6 +39,7 @@
     font-size: 25.11px;
     line-height: 30px;
     cursor: pointer;
+    margin-bottom: 2rem;
 }
 
 .gpt3__blog-container_article-content p:last-child {
